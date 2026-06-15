@@ -1,0 +1,132 @@
+Star-Gated MIT License (SG-MIT) v1.0
+=====================================
+
+Copyright (c) 2026 superturtlee
+
+Project: anland
+Repository: https://github.com/superturtlee/anland
+
+
+PLAIN-LANGUAGE SUMMARY
+----------------------
+Give this repository ONE GitHub Star, and you are granted the full,
+irrevocable MIT License below for your copy — forever, for any use,
+commercial or not. No star, no grant: any use, copy, or distribution
+without first starring the repository is unauthorized ("piracy").
+
+One star buys you the real MIT. That's the whole deal.
+
+
+SECTION 1 — THE CONDITION
+-------------------------
+The rights granted in Section 2 are offered to you on the single condition
+that you have starred the canonical repository at:
+
+    https://github.com/superturtlee/anland
+
+"Starred" means your GitHub account shows an active star on that repository
+at the time you obtain, copy, build, run, or distribute the Software.
+
+If you have not starred the repository, NO rights are granted to you under
+this license. Any reproduction, use, modification, or distribution of the
+Software without a star is unauthorized and constitutes infringement of the
+copyright holder's exclusive rights (informally: "piracy").
+
+
+SECTION 2 — THE GRANT (standard MIT, unlocked by the star)
+----------------------------------------------------------
+Once the condition in Section 1 is met, permission is hereby granted, free
+of charge and irrevocably for that copy, to any person obtaining a copy of
+this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in
+all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS
+IN THE SOFTWARE.
+
+
+SECTION 3 — PER-VERSION GRANT AND REVOCATION
+--------------------------------------------
+The grant applies on a per-version basis:
+
+(a) Versions obtained while starred — For any version of the Software you
+    obtained, copied, built, or ran while your star was active, the grant
+    in Section 2 is irrevocable for that version, even if you later unstar
+    the repository. The star is a one-time key for the versions you held
+    while it was active, not a subscription for them.
+
+(b) Future versions after unstarring — If you unstar the repository, NO
+    grant is offered for any version released, published, or obtained after
+    you unstarred. To use a later version, you must star the repository
+    again at the time you obtain it. Continued use of versions released
+    after you unstarred, without re-starring, is unauthorized ("piracy").
+
+
+====================================================================
+中文说明（与上文英文条款具有同等效力，如有歧义以英文为准）
+====================================================================
+
+Star-Gated MIT 许可证（星标解锁 MIT，SG-MIT）v1.0
+
+版权所有 (c) 2026 superturtlee
+项目：anland
+仓库：https://github.com/superturtlee/anland
+
+通俗说明：
+    给本仓库点一个 GitHub Star，你的这份副本即获得下方完整、不可撤销的
+    MIT 授权——永久有效，可用于任何用途，包括商业用途。
+    未点 Star 即未获授权：任何未先点 Star 的使用、复制或分发均属未授权
+    行为（即“盗版”）。一个 Star 换取真正的 MIT，仅此而已。
+
+条件：第 2 节的权利仅在你已对上述仓库点 Star 的前提下授予。
+授权：满足条件后，授予标准 MIT 许可（见上方英文第 2 节）。
+按版本授权：
+    （a）取消 Star 前已获取的版本——你在 Star 处于激活状态时获取、复制、
+        构建或运行的任何版本，其授权不可撤销，即使日后取消 Star 仍然有效。
+        Star 是这些版本的一次性钥匙，而非订阅。
+    （b）取消 Star 后的后续版本——一旦取消 Star，对此后发布或获取的任何
+        新版本均不授予授权。若要使用后续版本，必须在获取时重新点 Star。
+        未重新点 Star 而继续使用取消 Star 之后发布的版本，属未授权行为
+        （即“盗版”）。
+
+
+====================================================================
+APPENDIX — THE COMPLETE MIT LICENSE (verbatim)
+附录 —— 完整 MIT 许可证原文
+====================================================================
+
+This is the unmodified, canonical MIT License referenced by Section 2.
+Once the star condition is satisfied, the following terms govern your copy
+in full.
+
+    MIT License
+
+    Copyright (c) 2026 superturlee
+
+    Permission is hereby granted, free of charge, to any person obtaining a copy
+    of this software and associated documentation files (the "Software"), to deal
+    in the Software without restriction, including without limitation the rights
+    to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+    copies of the Software, and to permit persons to whom the Software is
+    furnished to do so, subject to the following conditions:
+
+    The above copyright notice and this permission notice shall be included in all
+    copies or substantial portions of the Software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+    FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+    AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+    LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+    OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+    SOFTWARE.
